@@ -1,7 +1,5 @@
 # -*- coding: utf-8 -*-
 """
-Created on Sun Aug 10 09:04:42 2025
-
 @author: MinhTok1oPC
 
 Delivered Question:
@@ -70,5 +68,6 @@ multi_filter.to_excel('sales_of_tops_with_3_quantity.xlsx', index = False)
 fulfilment_avg.to_excel('average_amounts_by_fulfilment.xlsx', index = False)
 status_avg.to_excel('average_amounts_by_status.xlsx', index = False)
 total_sales_shipandfulfil.to_excel('total_sales_by_shipment_and_fultiment.xlsx', index = False)
+
 
 
